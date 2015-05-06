@@ -88,3 +88,4 @@ When you are finished with the assignment, push your git repository to
 GitHub so that the GitHub version of your repository is up to
 date. There should be four PNG files and four R code files.
 
+https://cloud.githubusercontent.com/assets/10914246/7500170/35ef2356-f3fa-11e4-84da-802a28b3855c.png
