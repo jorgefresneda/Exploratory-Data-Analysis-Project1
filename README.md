@@ -92,3 +92,4 @@ Plot 1
 https://cloud.githubusercontent.com/assets/10914246/7500170/35ef2356-f3fa-11e4-84da-802a28b3855c.png
 
 Plot 2
+https://cloud.githubusercontent.com/assets/10914246/7500746/94c8d220-f3fd-11e4-83f9-8d980c5a7390.png
