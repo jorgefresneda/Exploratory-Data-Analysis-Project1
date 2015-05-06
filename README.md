@@ -95,3 +95,6 @@ https://cloud.githubusercontent.com/assets/10914246/7500170/35ef2356-f3fa-11e4-8
 
 Plot 2
 https://cloud.githubusercontent.com/assets/10914246/7500746/94c8d220-f3fd-11e4-83f9-8d980c5a7390.png
+
+Plot 3
+https://cloud.githubusercontent.com/assets/10914246/7500884/b247915a-f3fe-11e4-93ca-a8b1226c4acb.png
